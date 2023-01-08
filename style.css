@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: crimson;
+}
+#videos {
+    background-color: coral;
+}
+#history {
+    background-color: coral;
+}
+#Community {
+    background-color: coral;
+}
+#contacts {
+    background-color: coral;
+}
+.adopt {
+    float: left;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.adopt:hover {
+    font-size: 90%;
+    text-decoration: crimson;
+}
+.game {
+    
+        position:fixed;
+        top: 0px;
+        width: 100%;
+        z-index: 10;
+        cursor: pointer;
+        margin-top: 0px;
+    
+}
